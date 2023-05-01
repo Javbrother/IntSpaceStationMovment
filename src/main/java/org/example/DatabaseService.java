@@ -6,7 +6,7 @@ import java.util.Collection;
 public class DatabaseService {
     private static final String URL = "jdbc:mysql://localhost:3306/iss_data";
     private static final String USER = "root";
-    private static final String PASSWORD = "pokkers88";
+    private static final String PASSWORD = "1234";
 
     public static Connection getConnection() {
         try {
